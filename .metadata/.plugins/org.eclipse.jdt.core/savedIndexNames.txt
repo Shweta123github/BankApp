@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Admin\Desktop\BankApp\.metadata\.plugins\org.eclipse.jdt.core
-3016808284.index
-3856082463.index
-3011209426.index
-2300082078.index
